@@ -3,7 +3,7 @@
 
 ####  克隆项目
 ```
-git clone git@github.com:joker8023/confluence.git
+git clone git://github.com/joker8023/confluence.git
 ```
 #### 启动docker-compose
 ```
